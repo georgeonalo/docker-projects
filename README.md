@@ -151,13 +151,10 @@ Below is the Reference Architecture for both websites.
 
 
 
+![image](https://user-images.githubusercontent.com/115881685/228795017-7e5f9f05-2a7c-4e40-ab58-8140c4c4d55c.png)
 
 
 ![image](https://user-images.githubusercontent.com/115881685/228795249-def08f5b-4b23-4b2a-8c56-213d501ad834.png)
-
-
-
-![image](https://user-images.githubusercontent.com/115881685/228795017-7e5f9f05-2a7c-4e40-ab58-8140c4c4d55c.png)
 
 
 
