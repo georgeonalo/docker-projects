@@ -87,7 +87,21 @@ Below is the Reference Architecture for both websites.
 
 
 
+
+
+
+
+
+
+
+
 ### Screenshots of resourses created/used for my Jupiter Static Website.
+
+
+
+
+
+
 
 
 
