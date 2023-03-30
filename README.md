@@ -1,4 +1,4 @@
-# Host a Dynamic and Static Web App with Docker, Amazon ECR AND ECS
+# Host a Dynamic and Static Web App with Docker, Amazon ECR and ECS
 
 In this Repository, i shared screenshots of the resources created/used in hosting both a dynamic and static website with Docker, Amazon ECR and ECS.
 
