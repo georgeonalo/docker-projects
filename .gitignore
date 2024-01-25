@@ -1,3 +1,4 @@
 Dockerfile-reference
 build_image.ps1
 rentzone.env
+build_image.sh
