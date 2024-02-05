@@ -14,7 +14,7 @@ RUN yum install -y wget
 RUN yum install -y httpd
 
 # Install PHP and various extensions
-RUN amazon-linux-extras enable php7.4 && \
+RUN amazon-linux-extras enable php8.0 && \
   yum clean metadata && \
   yum install -y \
     php \
@@ -36,7 +36,7 @@ RUN amazon-linux-extras enable php7.4 && \
 RUN wget https://repo.mysql.com/mysql80-community-release-el7-3.noarch.rpm
 
 # Import the GPG key for the MySQL repository
-RUN rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
+RUN rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2023
 
 # Install the MySQL repository package
 RUN yum localinstall mysql80-community-release-el7-3.noarch.rpm -y
